@@ -1,0 +1,19 @@
+USIP
+DIPLOMADO EN FULLSTACK DEVELOPER BACKEND Y FRONTEND
+MODULO 6: DESARROLLO FRONTEND CON VUE
+
+
+Practica1 2 Vue3
+Nombre(s) de integrante(s):
+- Juan Carlos Machaca
+
+
+Pasos para iniciar el proyecto
+1) npm install
+2) npm install -g @vue/cli
+3) npm install axios
+4) npm install -g json-server
+5) json-server --watch db.json //ejecutar el servidor json
+6) npm run serve
+7) http://localhost:8080/productos
+8) cuando se agrege un nuevo producto hay que actualizar la pagina

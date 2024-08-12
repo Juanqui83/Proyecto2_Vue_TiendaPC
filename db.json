@@ -1,0 +1,142 @@
+{
+  "productos": [
+    {
+      "id": "1",
+      "nombre": "Procesador Intel i9",
+      "categoriaId": "1",
+      "precio": 550
+    },
+    {
+      "id": "2",
+      "nombre": "Tarjeta Gráfica Nvidia RTX 3080",
+      "categoriaId": "2",
+      "precio": 700
+    },
+    {
+      "id": "3",
+      "nombre": "Procesador AMD Ryzen 7",
+      "categoriaId": "1",
+      "precio": 450
+    },
+    {
+      "id": "4",
+      "nombre": "Tarjeta Gráfica AMD Radeon RX 6700 XT",
+      "categoriaId": "2",
+      "precio": 600
+    },
+    {
+      "id": "5",
+      "nombre": "Procesador Intel i5",
+      "categoriaId": "1",
+      "precio": 300
+    },
+    {
+      "id": "6",
+      "nombre": "Tarjeta Gráfica Nvidia GTX 1660",
+      "categoriaId": "2",
+      "precio": 250
+    },
+    {
+      "id": "7",
+      "nombre": "Procesador AMD Ryzen 5",
+      "categoriaId": "1",
+      "precio": 200
+    },
+    {
+      "id": "8",
+      "nombre": "Tarjeta Gráfica Nvidia RTX 3060",
+      "categoriaId": "2",
+      "precio": 400
+    },
+    {
+      "id": "9",
+      "nombre": "Procesador Intel i3",
+      "categoriaId": "1",
+      "precio": 150
+    },
+    {
+      "id": "10",
+      "nombre": "Tarjeta Gráfica Nvidia RTX 3070",
+      "categoriaId": "2",
+      "precio": 500
+    },
+    {
+      "id": "11",
+      "nombre": "Disco Duro SSD 1TB",
+      "categoriaId": "3",
+      "precio": 100
+    },
+    {
+      "id": "12",
+      "nombre": "Disco Duro HDD 2TB",
+      "categoriaId": "3",
+      "precio": 80
+    },
+    {
+      "id": "13",
+      "nombre": "Disco Duro SSD 500GB",
+      "categoriaId": "3",
+      "precio": 60
+    },
+    {
+      "id": "14",
+      "nombre": "Disco Duro SSD 2TB",
+      "categoriaId": "3",
+      "precio": 180
+    },
+    {
+      "id": "15",
+      "nombre": "Disco Duro HDD 4TB",
+      "categoriaId": "3",
+      "precio": 120
+    },
+    {
+      "id": "16",
+      "nombre": "Memoria RAM 16GB DDR4",
+      "categoriaId": "4",
+      "precio": 80
+    },
+    {
+      "id": "17",
+      "nombre": "Memoria RAM 8GB DDR4",
+      "categoriaId": "4",
+      "precio": 40
+    },
+    {
+      "id": "18",
+      "nombre": "Memoria RAM 32GB DDR4",
+      "categoriaId": "4",
+      "precio": 160
+    },
+    {
+      "id": "19",
+      "nombre": "Memoria RAM 4GB DDR4",
+      "categoriaId": "4",
+      "precio": 25
+    },
+    {
+      "id": "20",
+      "nombre": "Memoria RAM 64GB DDR4",
+      "categoriaId": "4",
+      "precio": 320
+    }
+  ],
+  "categorias": [
+    {
+      "id": "1",
+      "nombre": "Procesadores"
+    },
+    {
+      "id": "2",
+      "nombre": "Tarjetas Gráficas"
+    },
+    {
+      "id": "3",
+      "nombre": "Discos Duros"
+    },
+    {
+      "id": "4",
+      "nombre": "Memorias RAM"
+    }
+  ]
+}
